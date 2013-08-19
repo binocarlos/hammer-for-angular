@@ -22,7 +22,7 @@ angular
 We can now use the hammer directives in our app
 
 ```html
-<div ng-tap="anexpression()">hello</div>
+<div hm-tap="anexpression()">hello</div>
 ```
 
 You can change the default settings for the instance by adding a second attribute with options:
