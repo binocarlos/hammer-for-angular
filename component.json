@@ -1,0 +1,19 @@
+{
+  "name": "hammer-for-angular",
+  "repo": "binocarlos/hammer-for-angular",
+  "description": "Component build for hammer directives in angular.js",
+  "version": "0.0.1",
+  "keywords": [
+    "hammer",
+    "angular"
+  ],
+  "dependencies": {
+    "component/hammer.js": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
