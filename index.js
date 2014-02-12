@@ -28,7 +28,7 @@
  *
  */
 
-var Hammer = require('hammer.js');
+var Hammer = require('hammer');
 
 var hmTouchevents = angular.module('hmTouchevents', []),
     hmGestures = ['hmHold:hold',
